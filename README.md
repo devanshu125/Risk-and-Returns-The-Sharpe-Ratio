@@ -9,5 +9,8 @@ The [stock_data](datasets/stock_data.csv) file contains the stock prices of Amaz
 ## Blog:page_facing_up:
 I have also written an [article](https://www.linkedin.com/pulse/risk-returns-sharpe-ratio-devanshu-ramaiya) describing the project in detail. Do have a look to find out more about this project!
 
+## [Sharpe Ratio Calculator](https://github.com/devanshu125/Sharpe-Ratio-Calculator):computer:
+A web app to calculate Sharpe ratios of different investments and make better choices. To access the web app, click [here](https://sharpe-ratio-calculator.herokuapp.com/)!
+
 ## Credits:bookmark:
 I would like to thank [DataCamp](https://www.datacamp.com/) for this amazing project.
